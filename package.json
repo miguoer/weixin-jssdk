@@ -1,5 +1,5 @@
 {
-  "name": "weixin-jssdk",
+  "name": "wechat-js-sdk-re",
   "version": "1.4.0",
   "description": "微信官方js-sdk",
   "main": "index.js",
