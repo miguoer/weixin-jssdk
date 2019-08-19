@@ -1,0 +1,22 @@
+{
+  "name": "weixin-jssdk",
+  "version": "1.4.0",
+  "description": "微信官方js-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguoer/weixin-jssdk.git"
+  },
+  "keywords": [
+    "微信js-sdk"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguoer/weixin-jssdk/issues"
+  },
+  "homepage": "https://github.com/miguoer/weixin-jssdk#readme"
+}
