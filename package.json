@@ -1,6 +1,6 @@
 {
   "name": "wechat-js-sdk-re",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "description": "微信官方js-sdk",
   "main": "index.js",
   "scripts": {
